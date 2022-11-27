@@ -56,8 +56,8 @@ This custom check report all stat on minute basis in dump1090 namespace:
 
 * Copy the custom check and check config file to the Datadog agent install directory
 ```
-cp dump1090.yaml /etc/datadog-agent/conf.d/
-cp dump1090.py /etc/datadog-agent/checks.d/
+sudo -Hu dd-agent cp dump1090.yaml /etc/datadog-agent/conf.d/
+sudo -Hu dd-agent cp dump1090.py /etc/datadog-agent/checks.d/
 ```
 
 * Restart the Datadog agent
