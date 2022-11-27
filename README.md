@@ -1,4 +1,8 @@
 # datadog-dump1090
+
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/sashacmc/datadog-dump1090.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/sashacmc/datadog-dump1090/alerts/)
+[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/sashacmc/datadog-dump1090.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/sashacmc/datadog-dump1090/context:python)
+
 Datadog custom check to report dump1090 statistic
 
 
